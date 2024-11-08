@@ -46,6 +46,7 @@ sudo apt-get install sqlite3
 sudo apt-get install sqlitebrowser
 
 sudo apt-get install weechat
+sudo apt-get install slack
 
 sudo apt-get install triplea
 
