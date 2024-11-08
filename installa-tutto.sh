@@ -14,6 +14,8 @@ sudo apt-get install gddrescue
 sudo apt-get install chromium
 sudo apt-get install gopher
 
+sudo apt-get install git
+
 sudo apt-get install filezilla
 
 sudo apt-get install gimp
