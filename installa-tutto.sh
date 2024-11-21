@@ -24,6 +24,8 @@ sudo apt-get install findimagedupes
 sudo apt-get install texlive-fonts-extra
 sudo apt-get install ttf-mscorefonts-installer
 
+sudo apt-get install libreoffice
+
 sudo apt-get install obs-studio
 sudo apt-get install simplescreenrecorder
 sudo apt-get install audacity
