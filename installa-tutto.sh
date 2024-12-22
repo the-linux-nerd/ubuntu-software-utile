@@ -24,6 +24,8 @@ sudo apt-get install findimagedupes
 sudo apt-get install texlive-fonts-extra
 sudo apt-get install ttf-mscorefonts-installer
 
+sudo apt-get install libreoffice
+
 sudo apt-get install obs-studio
 sudo apt-get install simplescreenrecorder
 sudo apt-get install audacity
@@ -38,6 +40,8 @@ sudo apt-get install steam
 
 sudo apt-get install meld
 
+sudo apt-get install git
+
 sudo apt-get install libfuse2
 sudo apt-get install libxdo3
 sudo apt-get install libminizip1
@@ -46,6 +50,7 @@ sudo apt-get install sqlite3
 sudo apt-get install sqlitebrowser
 
 sudo apt-get install weechat
+sudo apt-get install slack
 
 sudo apt-get install triplea
 
