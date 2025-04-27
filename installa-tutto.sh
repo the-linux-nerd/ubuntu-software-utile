@@ -10,6 +10,7 @@ sudo apt-get install htop
 sudo apt-get install ncdu
 sudo apt-get install pwgen
 sudo apt-get install gddrescue
+sudo apt-get install bridge-utils
 
 sudo apt-get install chromium
 sudo apt-get install gopher
@@ -26,6 +27,8 @@ sudo apt-get install ttf-mscorefonts-installer
 
 sudo apt-get install libreoffice
 
+sudo apt-get install kicad
+
 sudo apt-get install obs-studio
 sudo apt-get install simplescreenrecorder
 sudo apt-get install audacity
@@ -35,6 +38,7 @@ sudo apt-get install stopwatch
 
 sudo apt-get install virtualbox
 sudo apt-get install dosbox
+sudo apt-get install qemu-system
 
 sudo apt-get install steam
 
@@ -70,3 +74,5 @@ sudo snap install arduino
 # cose da scaricare e installare
 # Dropbox
 # Rustdesk
+# Freecad
+
